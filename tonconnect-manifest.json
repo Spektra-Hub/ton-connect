@@ -1,7 +1,7 @@
 {
-    "url": "https://ton-connect.github.io/demo-dapp-with-wallet/",
-    "name": "Demo Dapp with wallet",
-    "iconUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/apple-touch-icon.png",
-    "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt",
-    "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/privacy-policy.txt"
+    "url": "https://raw.githubusercontent.com/Spektra-Hub/ton-connect/refs/heads/master/",
+    "name": "Spektra Hub",
+    "iconUrl": "https://raw.githubusercontent.com/Spektra-Hub/ton-connect/refs/spektra-hub.png",
+    "termsOfUseUrl": "https://raw.githubusercontent.com/Spektra-Hub/ton-connect/refs/heads/master/terms-of-use.txt",
+    "privacyPolicyUrl": "https://raw.githubusercontent.com/Spektra-Hub/ton-connect/refs/heads/master/privacy-policy.txt"
 }
